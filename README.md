@@ -6,6 +6,7 @@
 
 - 📫 How to reach me: 
 > email: peterjohnm2002@gmail.com
+
 > discord: buqueefius#3966 (may not be updated)
 
 <!---
