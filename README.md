@@ -1,7 +1,7 @@
 # 
 
 - 👋 Hi, I’m @petermendoza
-- 👀 I’m interested in software development and automation
+- 👀 I’m interested in software and web development as of now
 - 🌱 I’m currently learning Computer Science at University of Houston
 
 - 📫 How to reach me: 
