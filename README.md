@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
 > email: peterjohnm2002@gmail.com
 
-> discord: kilometer#4333
+> discord: kilometerp#4333
 
 <!---
 petermendoza/petermendoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
