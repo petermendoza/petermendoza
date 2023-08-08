@@ -2,12 +2,12 @@
 
 - 👋 Hi, I’m @petermendoza
 - 👀 I’m interested in software and web development as of now
-- 🌱 I’m currently learning Computer Science at University of Houston
+- 🌱 I’m working for a major in Computer Science and a minor in Mathematics at University of Houston
 
 - 📫 How to reach me: 
 > email: peterjohnm2002@gmail.com
 
-> discord: kilometerp#4333
+> discord: kilometerp
 
 <!---
 petermendoza/petermendoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
